@@ -35,4 +35,4 @@
 [instagram]: https://www.instagram.com/tanmay_jhunjhunwala/
 [portfolio]: https://www.cloudwithtanmay.com/
 [email]: mailto:tanmay.work9@gmail.com
-[resume]: assets/master_tanmay_jhunjhunwala.pdf
+[resume]: https://raw.githubusercontent.com/tanmayj-hub/tanmayj-hub/main/assets/master_tanmay_jhunjhunwala.pdf
