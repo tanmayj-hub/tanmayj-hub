@@ -15,7 +15,7 @@
 
 # Fun Fact
 
-**Offer coffee ☕ or a beer 🍻 — and I’ll trade you a great conversation. Off the keyboard, I’m usually chasing rallies in badminton 🏸 or practicing quiet precision at the pool table 🎱**
+**Let's have a coffee ☕ or beer 🍻 — and I’ll trade you a great conversation. Off the keyboard, I’m usually chasing rallies in badminton 🏸 or practicing quiet precision at the pool table 🎱**
 
 # Connect with me
 
